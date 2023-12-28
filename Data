@@ -4,7 +4,7 @@ ft_p (min)          λ_q (faults/km/a)         T_a^rep (min)          T_0^b (min
 
 
 #Parameters of the 39-bus system lines
-i   j     km  phase   R_A      R_B      R_C      X_A     X_B      X_C
+i     j     km  phase   R_A      R_B      R_C      X_A     X_B      X_C
 1	2	1	A	0.29	0.196	0.196	1.92	0.53	0.53
 1	2	1	B	0.196	0.29	0.196	0.53	1.92	0.53
 1	2	1	C	0.196	0.196	0.29	0.53	0.53	1.92
