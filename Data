@@ -1,6 +1,6 @@
-# Reliability parameters
+# Reliability parameters of the 39-bus system
 ft_p (min)          λ_q (faults/km/a)         T_a^rep (min)          T_0^b (min)         T^pre (min)
-   0.3                    2.6                      19.95                36.01                98,58
+   0.3                    2.6                      180                36.01                 10
 
 
 #Parameters of the 39-bus system lines
@@ -119,4 +119,9 @@ i         j     km     phase   R_A      R_B      R_C      X_A     X_B      X_C
 38	39	0.01	A	0.4272	0.06	0.06	0.9609	0.478	0.45
 38	39	0.01	B	0.06	0.4272	0.06	0.478	0.9609	0.536
 38	39	0.01	C	0.06	0.06	0.4272	0.45	0.536	0.9609
+
+
+# Reliability parametersof the 962-bus system
+ft_p (min)          λ_q (faults/km/a)         T_a^rep (min)          T_0^b (min)         T^pre (min)
+   0.3                    0.53                      180                 67.11                10
 
