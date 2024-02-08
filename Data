@@ -123,5 +123,5 @@ i         j     km     phase   R_A      R_B      R_C      X_A     X_B      X_C
 
 # Reliability parametersof the 962-bus system
 ft_p (min)          λ_q (faults/km/a)         T_a^rep (min)          T_0^b (min)         T^pre (min)
-   0.3                    0.53                      180                 67.11                10
+   0.3                    0.63                      180                 67.11                10
 
